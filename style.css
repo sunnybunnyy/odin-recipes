@@ -1,0 +1,23 @@
+* {
+    font-family: "Garamond", serif;
+    background-color: #f6f4d2;
+}
+
+h1 {
+    background-color: #d4e09b;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: #cbdfbd;
+}
+
+ul, ol, li, a, p {
+    background-color: #f19c79;
+    color: gray;
+}
+
+img {
+    height: auto;
+    width: 100px;
+}
