@@ -4,20 +4,59 @@
 }
 
 h1 {
-    background-color: #d4e09b;
     font-weight: bold;
+    padding: 10px;
 }
 
 h2 {
     background-color: #cbdfbd;
 }
 
-ul, ol, li, a, p {
+ul, ol, li, p {
     background-color: #f19c79;
     color: gray;
 }
 
 img {
     height: auto;
-    width: 100px;
+    width: 250px;
+    margin: 10px 25px;
+}
+
+.web-name {
+    background-color: white;
+    color: #f19c79;
+    margin: -8px -7px;
+}
+
+.line {
+    background-color: #cbdfbd;
+    padding: 1px;
+    margin: 8px -7px;
+}
+
+#three-rec {
+    margin: -25px 250px;
+}
+
+#rec-one, #rec-two, #rec-three {
+    background-color: #d4e09b;
+    padding: 10px;
+    color: white;
+}
+
+#rec-one {
+    margin: 0px 85px;
+}
+
+#rec-two {
+    margin: 0px 100px;
+}
+
+#rec-three {
+    margin: 0px 85px;
+}
+
+#three-images {
+    margin: 10px 250px;
 }
